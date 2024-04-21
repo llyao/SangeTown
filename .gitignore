@@ -63,3 +63,5 @@
 /Town/Unity.VisualScripting.State.Player.csproj
 /Town/Unity.VisualStudio.Editor.csproj
 /Town/Unity.VSCode.Editor.csproj
+Town/Assembly-CSharp.csproj
+Town/Assembly-CSharp.Player.csproj
